@@ -1,0 +1,41 @@
+Untuk menambah LINK Dock Icon,
+pertama,buka rancangan,lalu pilih Edit HTML
+
+lalu tekan kontrol ctrl + F
+
+lalu ketik dock-container pada kotak Search.
+
+nah,kalau sudah ketemu,kamu akan menemukan kode ini..
+
+<div id="dock">
+<div class="dock-container">
+		<a class="dock-item" href="#"><span>Example 1</span><img src="http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/home.png" alt="home" /></a>
+		<a class="dock-item" href="#"><span>Example 2</span><img src="http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/email.png" alt="contact" /></a>
+		<a class="dock-item" href="#"><span>Example 3</span><img src="http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/portfolio.png" alt="portfolio" /></a>
+		<a class="dock-item" href="#"><span>All Examples</span><img src="http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/music.png" alt="music" /></a>
+		<a class="dock-item" href="#"><span>Video</span><img src="http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/video.png" alt="video" /></a>
+		<a class="dock-item" href="#"><span>History</span><img src="http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/history.png" alt="history" /></a>
+		<a class="dock-item" href="#"><span>Calendar</span><img src="http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/calendar.png" alt="calendar" /></a>
+		<a class="dock-item" href="#"><span>Links</span><img src="http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/link.png" alt="links" /></a>
+		<a class="dock-item" href="#"><span>RSS</span><img src="http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/rss.png" alt="rss" /></a>
+		<a class="dock-item" href="#"><span>RSS2</span><img src="http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/rss2.png" alt="rss" /></a>
+	</div>
+
+<!-- end div .dock-container -->
+</div>
+
+<!-- end div .dock #dock -->
+
+
+
+Untuk menambah link,kamu tinggal ganti kode # dengan link yang kamu inginkan..
+
+Jika kamu ingin mengganti gambar/icon dengan milikmu sendiri,tinggal ganti Url gambarnya
+
+Contoh:'http://nettuts.s3.amazonaws.com/358_jquery/example%20files/images/dock/home.png"
+
+slesai..
+
+terimakasih Sudah menggunakan template saya n_n
+
+Http://www.akbhome.co.cc
